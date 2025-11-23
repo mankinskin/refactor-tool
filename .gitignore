@@ -18,3 +18,5 @@ Cargo.lock
 # OS files
 .DS_Store
 Thumbs.db
+# Agent temporary files
+agents/tmp/
